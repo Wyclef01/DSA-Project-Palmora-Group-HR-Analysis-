@@ -46,5 +46,44 @@ Data visualization
 
 ## Work file
 
+Can't be uploaded, because file type not supported on Github.
+
+## Project Insight
+
+### Gender Distribution
+
+The company's gender distribution is balanced, with males at 49.52% and Females at 46.30% while the undisclosed is 4.18%, leaving the difference by only 3.22%. Regional and Departmental distribution vary, with Kaduna showing the largest gender gap, while Legal department has more male(49) than female(34).
+
+### Performance Rating
+
+Most employee were rated 'Good' or 'Average', with few rated 'Poor' and 'Very poor'
 
 
+### Salary Structure
+
+Males generally earn more than females across most regions and departments, with notable gaps in Kaduna's Marketing and Abuja's Accounts departments. However, the total pay difference between the genders is minimal, indicating that Palmoria's gender pay gap as suggested by the media may be less significant than perceived.
+
+### Salary Regulation
+
+Palmoria's salaries fall below the regulatory minimum of N90,000, with an average of N78,000 and a minimum of N28,130. Currently, 732 employees earn below the minimum salary requirement.
+
+### Bonus Distribution
+
+A total of N26 million was distributed in bonuses monthly, with females receiving higher bonus amounts across all regions.
+
+## Recommendations
+
+Ensure Minimum Salary Compliance: Review salary for employees earning below the minimum salary threshold as stipulated by the regulation and ensure there is a regular review of the salary band to comply with future regulations.
+
+Promote Gender Inclusivity: Enhance programs and policies that support gender balance and inclusivity in the workplace.
+
+Address Unspecified Data: Investigate and address reasons behind the 4.18% of unspecified gender information to encourage transparency.
+
+There should be an equilibrium between the salary for male and female employees.
+
+Analyse Pay Equity: Conduct regular pay audits to ensure fair compensation across genders, regions and departments.
+
+Introduction of a performance incentive with an end goal of pay rise and promotion to encourage the employees performance.
+
+## Conclusion
+After my analysis, Palmoria Group are not gender bais as stated by the media. 
