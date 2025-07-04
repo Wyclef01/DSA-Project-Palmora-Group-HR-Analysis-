@@ -41,4 +41,10 @@ Data cleaning and Formatting using power query
 Data visualization
 
 ## Pictorial Results
+![Power BI Dashboard](https://github.com/user-attachments/assets/964a5f83-2b83-4b01-9e13-f66746e6c260)
+![Power BI dataset](https://github.com/user-attachments/assets/a5c8329a-4aa0-4a8e-906c-f1b16851ba60)
+
+## Work file
+
+
 
